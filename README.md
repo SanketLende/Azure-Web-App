@@ -188,6 +188,10 @@ steps:
    - Replace `'your-instrumentation-key'` with the key from your App Insights resource.
 6. Deploy the updated code to **Azure App Service** via Git or DevOps pipeline.
 7. Visit the **Application Insights** section in the **Azure Portal** to monitor performance, errors, and other telemetry.
+8. Exit
+
+
+
 
 ---
 
