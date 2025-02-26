@@ -190,6 +190,7 @@ steps:
 7. Visit the **Application Insights** section in the **Azure Portal** to monitor performance, errors, and other telemetry.
 8. Exit
 9. Update
+10. Solved
 
 
 
